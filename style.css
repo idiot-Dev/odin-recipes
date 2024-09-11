@@ -1,0 +1,14 @@
+*{
+    background-color: #1a1b26;
+    color: bisque;
+}
+
+h1 {
+    font-size: 50px;
+    text-align: center;
+}
+
+.recipes {
+    font-size: 24px;
+    text-align: center;
+}
